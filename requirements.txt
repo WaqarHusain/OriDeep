@@ -7,4 +7,4 @@ scipy==1.5.4
 smmap==4.0.0
 streamlit==1.0.0
 tensorflow==1.14.0
-h5py
+h5py==2.10.0
